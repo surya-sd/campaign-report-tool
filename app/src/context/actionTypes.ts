@@ -1,0 +1,8 @@
+
+// Action type constants
+export const SET_CAMPAIGNS = "SET_CAMPAIGNS";
+export const SET_SELECTED_METRICS = "SET_SELECTED_METRICS";
+export const SET_METRICS = "SET_METRICS";
+export const SET_CHART_TYPE = "SET_CHART_TYPE";
+export const SET_SELECTED_DEVICE_TYPE = "SET_SELECTED_DEVICE_TYPE";
+export const SET_MODAL_DATA = "SET_MODAL_DATA";
