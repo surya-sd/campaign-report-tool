@@ -1,6 +1,5 @@
 "use client";
-import React, { useRef } from "react";
-import { useDrag } from "react-dnd";
+import React from "react";
 import { useCampaign } from "../context/CampaignContext";
 import Metric from "./Metric";
 
